@@ -1,0 +1,17 @@
+{
+  "name": "v-cli2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "bin": {
+    "v-cli2": "bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^9.4.0",
+    "inquirer": "^8.2.4",
+    "shelljs": "^0.8.5"
+  }
+}
